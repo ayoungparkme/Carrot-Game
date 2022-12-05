@@ -1,0 +1,9 @@
+<img src="./img/carrot-game-before.png" 
+width=90% 
+height = auto>
+<img src="./img/carrot-game-won.png" 
+width=90% 
+height = auto>
+<img src="./img/carrot-game-lost.png" 
+width=90% 
+height = auto>
